@@ -1,7 +1,7 @@
 # Olá, Sou o Reinaldo!
 ## Seja bem-vindo.
-![Reinaldohub-type GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinaldohub-type&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldohub-type&layout=donut)](https://github.com/Reinaldohub-type/github-readme-stats) <br> 
+![Reinaldohub-type GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinaldohub&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldohub&layout=donut)](https://github.com/Reinaldohub/github-readme-stats) <br> 
 ##  Algumas tecnologias que ando aprendendo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 # Sobre mim:
