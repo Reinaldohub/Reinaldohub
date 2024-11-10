@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Reinaldohub
-- 👀 I’m interested in Data Analytics...
-- 🌱 I’m currently learning Data Analytics...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, Sou o Reinaldo!
+## Seja bem-vindo.
+![Reinaldohub-type GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinaldohub-type&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldohub-type&layout=donut)](https://github.com/Reinaldohub-type/github-readme-stats) <br> 
+##  Algumas tecnologias que ando aprendendo:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+# Sobre mim:
+Meu nome é Reinaldo Lucas
 
-<!---
-Reinaldohub/Reinaldohub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-souza-430939294/)
